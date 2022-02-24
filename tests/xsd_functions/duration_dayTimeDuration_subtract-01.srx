@@ -8,7 +8,7 @@
 			<binding name="datetime"><literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-10-27T09:57:00</literal></binding>
 		</result>
 		<result>
-			<binding name="datetime"><literal datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-10-26T22:45:00</literal></binding>
+			<binding name="datetime"><literal datatype="http://www.w3.org/2001/XMLSchema#date">2000-10-26</literal></binding>
 		</result>
 		<result>
 			<binding name="datetime"><literal datatype="http://www.w3.org/2001/XMLSchema#time">09:57:00</literal></binding>
