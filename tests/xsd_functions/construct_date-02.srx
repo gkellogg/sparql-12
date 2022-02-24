@@ -4,9 +4,9 @@
 	<variable name="date"/>
 </head>
 <results>
-		<result></result>
-		<result></result>
-		<result></result>
-		<result></result>
+		<result><binding name="date"><literal datatype="http://www.w3.org/2001/XMLSchema#date">2000-00-01</literal></binding></result>
+		<result><binding name="date"><literal datatype="http://www.w3.org/2001/XMLSchema#date">2000-13-01</literal></binding></result>
+		<result><binding name="date"><literal datatype="http://www.w3.org/2001/XMLSchema#date">2000-06-00</literal></binding></result>
+		<result><binding name="date"><literal datatype="http://www.w3.org/2001/XMLSchema#date">2000-06-32</literal></binding></result>
 </results>
 </sparql>
